@@ -3,7 +3,7 @@
   - [1.1 Concepte de programa informàtic](/programa_informatic.md)
   - [1.2 Codi font, codi objecte i codi excutable: màquines virtuals](/codi_font.md)
     - 1.2.1 Màquina virtual 
-  - 1.3 Tipus de llenguatges de programació
+  - [1.3 Tipus de llenguatges de programació](/tipus.md)
     - 1.3.1 Característiques dels llenguatges de primera i segona generació
     - 1.3.2 Característiques dels llenguatges de tercera, quarta i cinquena
 generació
