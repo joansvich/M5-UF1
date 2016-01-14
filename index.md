@@ -7,7 +7,7 @@
     - 1.3.1 Característiques dels llenguatges de primera i segona generació
     - 1.3.2 Característiques dels llenguatges de tercera, quarta i cinquena
 generació
-  - 1.4 Paradigmes de programació
+  - [1.4 Paradigmes de programació](/paradigmes.md)
   - 1.5 Característiques dels llenguatges més difosos
     - 1.5.1 Característiques de la programació estructurada
     - 1.5.2 Característiques de la programació orientada a objectes
